@@ -2,7 +2,7 @@
   "appid": "wx4a11f66e0326261a",
   "orientation": "portrait",
   "separate_engine": false,
-  "REMOTE_SERVER_ROOT": "",
+  "REMOTE_SERVER_ROOT": "https://6367-cgwwdle-5g5di1nra2b8ea55-1334188622.tcb.qcloud.la/wechat/ndnl",
   "subContext": "",
   "startSceneAssetBundle": false
 }

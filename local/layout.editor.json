@@ -13,13 +13,13 @@
         "type": "dock-h",
         "children": [
           {
-            "width": 307,
-            "height": 931.5,
+            "width": 459,
+            "height": 929.5,
             "type": "dock-v",
             "children": [
               {
-                "width": 307,
-                "height": 462.75,
+                "width": 459,
+                "height": 320.828125,
                 "type": "panel",
                 "active": 0,
                 "children": [
@@ -27,8 +27,8 @@
                 ]
               },
               {
-                "width": 307,
-                "height": 465.75,
+                "width": 459,
+                "height": 605.671875,
                 "type": "panel",
                 "active": 0,
                 "children": [
@@ -38,18 +38,18 @@
             ]
           },
           {
-            "width": 1009,
-            "height": 931.5,
+            "width": 864,
+            "height": 929.5,
             "type": "dock-v",
             "children": [
               {
-                "width": 1009,
-                "height": 465.75,
+                "width": 864,
+                "height": 461.75,
                 "type": "dock-h",
                 "children": [
                   {
-                    "width": 651,
-                    "height": 465.75,
+                    "width": 510,
+                    "height": 461.75,
                     "type": "panel",
                     "active": 0,
                     "children": [
@@ -57,8 +57,8 @@
                     ]
                   },
                   {
-                    "width": 355,
-                    "height": 465.75,
+                    "width": 351,
+                    "height": 461.75,
                     "type": "panel",
                     "active": 0,
                     "children": [
@@ -68,8 +68,8 @@
                 ]
               },
               {
-                "width": 1009,
-                "height": 462.75,
+                "width": 864,
+                "height": 464.75,
                 "type": "panel",
                 "active": 0,
                 "children": [
@@ -81,8 +81,8 @@
             ]
           },
           {
-            "width": 582,
-            "height": 931.5,
+            "width": 575,
+            "height": 929.5,
             "type": "panel",
             "active": 2,
             "children": [
@@ -106,7 +106,8 @@
         "builder"
       ]
     },
-    "worker": {}
+    " common-asset-worker-worker": {},
+    " build-worker-worker": {}
   },
   "panels": {
     "builder": {
@@ -114,6 +115,12 @@
       "y": 145,
       "width": 516,
       "height": 739
+    },
+    "project-settings": {
+      "x": 723,
+      "y": 180,
+      "width": 600,
+      "height": 565
     },
     "ccc-obfuscated-code": {
       "x": 642,
